@@ -1,0 +1,8 @@
+{
+  "vocab_size": 15000,
+  "max_len": 200,
+  "embedding_dim": 128,
+  "lstm_units": 64,
+  "test_accuracy": 0.84828,
+  "test_auc": 0.9231370912000001
+}
